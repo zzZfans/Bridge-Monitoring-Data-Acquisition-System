@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>MyImages/Br01.svg</file>
+        <file>MyImages/Br02.svg</file>
+        <file>MyImages/circular.svg</file>
+        <file>MyImages/CQJTDX.png</file>
+        <file>MyImages/energy.svg</file>
+        <file>MyImages/LIB.jpg</file>
+        <file>MyImages/ch111ecked.svg</file>
+        <file>MyImages/chec1ked.svg</file>
+        <file>MyImages/checked.svg</file>
+        <file>MyImages/search.svg</file>
+        <file>MyImages/checkmark.svg</file>
+    </qresource>
+</RCC>
